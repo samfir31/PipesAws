@@ -6,4 +6,4 @@ phases:
       java: corretto11    
 artifacts:
     files:
-        - '**/*'
+        - 's3/template.yml'
